@@ -1,8 +1,8 @@
-YAML
+
 
 name: Crear APK de la ruleta
 
-on:
+"on":
   push:
   workflow_dispatch:
 
